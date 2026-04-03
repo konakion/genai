@@ -1,4 +1,4 @@
-# Präsentation – Probelehrveranstaltung
+# Präsentation - Generative KI-Modelle und ihre mathematischen Grundlagen
 
 ## Überblick
 
