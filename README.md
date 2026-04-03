@@ -6,6 +6,10 @@ Diese Präsentation dient der Vermittlung grundlegender Konzepte aus dem Bereich
 
 Der Fokus liegt auf einem verständlichen Zugang zu komplexen Inhalten sowie der Verbindung von Theorie und Anwendung.
 
+![Visualisierung eines generativen Prozesses](./diffusion-model-building.gif)
+
+*Quelle: [NVIDIA Developer Blog – Understanding Diffusion Models](https://developer.nvidia.com/blog/understanding-diffusion-models-an-essential-guide-for-aec-professionals/)*
+
 ---
 
 ## Zielsetzung
